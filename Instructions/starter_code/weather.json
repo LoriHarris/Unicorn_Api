@@ -1,0 +1,176 @@
+[
+    {
+        "coord": {
+            "lon": 2.35,
+            "lat": 48.86
+        },
+        "weather": [
+            {
+                "id": 310,
+                "main": "Drizzle",
+                "description": "light intensity drizzle rain",
+                "icon": "09n"
+            },
+            {
+                "id": 701,
+                "main": "Mist",
+                "description": "mist",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 281.4,
+            "pressure": 1027,
+            "humidity": 87,
+            "temp_min": 280.15,
+            "temp_max": 282.15
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 250
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1546914600,
+        "sys": {
+            "type": 1,
+            "id": 6540,
+            "message": 0.0055,
+            "country": "FR",
+            "sunrise": 1546933361,
+            "sunset": 1546963924
+        },
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -78.64,
+            "lat": 35.78
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 280.92,
+            "pressure": 1026,
+            "humidity": 70,
+            "temp_min": 279.45,
+            "temp_max": 283.45
+        },
+        "visibility": 16093,
+        "wind": {
+            "speed": 1.65,
+            "deg": 103.5
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1546915800,
+        "sys": {
+            "type": 1,
+            "id": 4598,
+            "message": 0.0463,
+            "country": "US",
+            "sunrise": 1546950303,
+            "sunset": 1546985863
+        },
+        "id": 4487042,
+        "name": "Raleigh",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -73.99,
+            "lat": 40.73
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.43,
+            "pressure": 1027,
+            "humidity": 37,
+            "temp_min": 273.15,
+            "temp_max": 274.25
+        },
+        "visibility": 16093,
+        "wind": {
+            "speed": 3.6,
+            "deg": 130
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1546915860,
+        "sys": {
+            "type": 1,
+            "id": 4698,
+            "message": 0.0219,
+            "country": "US",
+            "sunrise": 1546949995,
+            "sunset": 1546983940
+        },
+        "id": 5128581,
+        "name": "New York",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -122.33,
+            "lat": 47.6
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.33,
+            "pressure": 1024,
+            "humidity": 81,
+            "temp_min": 275.95,
+            "temp_max": 278.15
+        },
+        "visibility": 16093,
+        "wind": {
+            "speed": 1.5,
+            "deg": 144.5
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1546915980,
+        "sys": {
+            "type": 1,
+            "id": 3417,
+            "message": 0.0424,
+            "country": "US",
+            "sunrise": 1546962976,
+            "sunset": 1546994172
+        },
+        "id": 5809844,
+        "name": "Seattle",
+        "cod": 200
+    }
+]
