@@ -1,0 +1,22 @@
+Three observable trends:
+
+Though not a trend, I did observe some outliers when running the api calls.  
+An error in finormation was found for Paita, where the humidity was listed as 
+the temperature and max temperature, making humidity nearly 300%.
+
+As for trends:
+
+1) 
+Humidity levels ranged up to 100% for all latitudes except those over 75 and under -50.
+The closer to 0 the lattitude, the closer the humidity would hug the 100% line.
+However, humidity readings up to 100% were still frequent until the latitude hit an extreme.
+
+2) 
+Wind speeds were varied, however, similar to the humidity trends, when the latitude hit an extreme, so did the wind speed.
+Also noted, lower wind speeds were more frequently recorded in the latitude ranges from 0 to 75.
+Again, wind speeds were still quite varied regardless of latitude.
+
+3) 
+Max temperature was the only graph I felt showed a true and visual change based on latitude.
+You can see in this plot that the max temp is closesly tied to the latitude.
+The plots are bundled closely and follow a distince curve of being higher near zero, lower as you move away from 0.
